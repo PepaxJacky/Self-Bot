@@ -16,7 +16,6 @@ Pepax.remove_command("help")
 
 chnl_id = "YOUR_CHANNEL_ID_(FOR SPAMMER)"
 token = "YOUR_TOKEN_HERE"
-t1 = token
 h1 = {"authorization": token}
 
 
