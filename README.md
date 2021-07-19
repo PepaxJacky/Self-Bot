@@ -15,7 +15,6 @@ git clone https://github.com/PepaxJacky/Python-Rewrites
 ```python
 chnl_id = "YOUR_CHANNEL_ID_(FOR SPAMMER)"
 token = "YOUR_TOKEN_HERE"
-t1 = token
 h1 = {"authorization": token}
 ```
 You MUST change the values of `chnl_id` and `token` to your Discord channel ID (the one you want to spam) and your Discord token
