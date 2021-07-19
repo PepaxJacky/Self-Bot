@@ -7,7 +7,7 @@ Welcome to the source code of my Discord Self Bot
 Use [git clone](https://github.com/PepaxJacky/Self-Bot) to install the code.
 
 ```
-git clone https://github.com/PepaxJacky/Python-Rewrites
+git clone https://github.com/PepaxJacky/Self-Bot
 ```
 ###### Or download the file manually
 
