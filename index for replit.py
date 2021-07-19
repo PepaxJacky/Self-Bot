@@ -7,6 +7,9 @@ from itertools import cycle
 import requests
 import threading
 
+# you need to create environment files - refer to my README.md file:
+# https://github.com/PepaxJacky/Self-Bot/blob/main/README.md
+
 os.system("clear")
 print("Preparing.")
 time.sleep(1)
