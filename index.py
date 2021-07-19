@@ -12,14 +12,12 @@ prefix = ">"
 Pepax = commands.Bot(command_prefix=prefix, self_bot=True)
 Pepax.remove_command("help")
 
-t1 = os.environ['t1']
-h1 = {"authorization": t1}
-
 
 
 chnl_id = "YOUR_CHANNEL_ID_(FOR SPAMMER)"
 token = "YOUR_TOKEN_HERE"
-
+t1 = token
+h1 = {"authorization": token}
 
 
 dr = DR = r = R = Fore.LIGHTRED_EX
